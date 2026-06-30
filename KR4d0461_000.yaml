@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0461/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0461_WYG_000-1a, image: WYG1199/WYG1199-0609a.png}
+body:
+  text: 提要畏齊集六卷别集類四元臣等謹案畏齊集六卷元程端禮撰端禮有讀書分年日程已著録其詩文名畏齊集見于黃溍所作墓志而不著卷數諸家書目亦多不載故世久無傳惟散見永樂大典中者尚得詩文百餘萹謹依類編次釐為六卷其學以朱子為宗故作孫叔㑹詩集序云詩至七言而衰律而壞詞而絶自朱子出而古詩遺意復見蓋朱子之學不在乎詩故其作有自然之妙諷詠勸懲之實又送牟景陽序云蜀文再變於魏了翁了翁學程朱學故未嘗有意為文人之文而文特妙其全集宗㫖不出於是夫朱子為講學之宗誠無異議至於文章一道則源流正變其說甚長必以晦菴一集律天下萬世而詩如李杜文如韓歐均斥之以衰且壞此一家之私言非千古之通論也然端學所作尚皆明白淳實不骫于正而其持論亦足以矯淫哇艷冶之弊於文章尚不為無功故糾其膠固之失而仍裒緝其佚萹偹一格焉乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:74e8bb6aba676f5addbf1470fbaa24cef26181797598cdb52f89e66ee13c3bb2
+metadata:
+  title: 畏齋集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:10:29.533910'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0461/KR4d0461_000.txt
+hash: sha256:daf84cd9050b13b6506f3760154c2dc13e0812371c76742cf71aeb84fb30ade9
